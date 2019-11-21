@@ -7,7 +7,7 @@ public class SolutionA{
         // write your code here
 
         Scanner s = new Scanner(System.in);
-        System.out.println("Enter the length of the array");
+        System.out.println("Enter the size of specified array:);
         int len = s.nextInt();
         int arr[] = new int[len+1];
         System.out.println("Enter the array elements:"); // array elements are being inserted
@@ -30,3 +30,9 @@ public class SolutionA{
         }
     }
 }
+:x
+
+
+
+:x
+
